@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3b7f3d5a4db34ee4493b4f44dc73f9ea
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: HEAVYwood
+  fontNames:
+  - HEAVYwood
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d7131c365d8f6504ab9fd02b66ac2949, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
